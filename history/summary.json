@@ -1,6 +1,6 @@
 [
   {
-    "name": "Price - Crypto",
+    "name": "Price Crypto",
     "url": "https://crypto.givpn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/crypto.givpn.my.id.ico",
     "slug": "price-crypto",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 260,
-    "timeWeek": 260,
-    "timeMonth": 260,
-    "timeYear": 260,
+    "time": 243,
+    "timeDay": 243,
+    "timeWeek": 243,
+    "timeMonth": 243,
+    "timeYear": 243,
     "dailyMinutesDown": {}
   }
 ]
