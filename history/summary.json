@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/crypto.givpn.my.id.ico",
     "slug": "price-crypto",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 285,
-    "timeWeek": 315,
-    "timeMonth": 315,
-    "timeYear": 315,
+    "uptime": "86.78%",
+    "uptimeDay": "6.63%",
+    "uptimeWeek": "86.66%",
+    "uptimeMonth": "86.78%",
+    "uptimeYear": "86.78%",
+    "time": 317,
+    "timeDay": 286,
+    "timeWeek": 335,
+    "timeMonth": 317,
+    "timeYear": 317,
     "dailyMinutesDown": {
-      "2023-09-01": 0
+      "2023-09-02": 115,
+      "2023-09-01": 1230
     }
   }
 ]
