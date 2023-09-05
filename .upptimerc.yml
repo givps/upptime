@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://google.com
-  #- name: Wikipedia
-     #url: https://en.wikipedia.org
+  - name: Price Crypto
+    url: https://crypto.givpn.my.id/
   #- name: Hacker News
      #url: https://news.ycombinator.com
   - name: Test Broken Site
