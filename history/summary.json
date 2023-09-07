@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 161,
-    "timeDay": 187,
-    "timeWeek": 161,
-    "timeMonth": 161,
-    "timeYear": 161,
+    "time": 163,
+    "timeDay": 169,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "price-crypto",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "95.41%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 289,
-    "timeDay": 258,
-    "timeWeek": 272,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "time": 290,
+    "timeDay": 303,
+    "timeWeek": 268,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2023-09-05": 54,
       "2023-09-04": 1440,
@@ -58,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-06": 119,
+      "2023-09-07": 119,
+      "2023-09-06": 1440,
       "2023-09-05": 1427
     }
   }
